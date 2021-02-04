@@ -1,0 +1,4 @@
+Perskaityti 3 failus a.txt, b.txt, c.txt;
+Suskaldyti visas eilutes zodziais per tarpa
+
+Tadadam

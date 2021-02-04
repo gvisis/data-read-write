@@ -1,0 +1,2 @@
+List metodui sort reikalingas Comperator
+Comparatoriui reikia vieno metodo

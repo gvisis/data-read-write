@@ -1,0 +1,3 @@
+Sudeti tuos zodzius i viena sarasa
+Surusiuoti tuos zodzius trumpejimo tvarka (nuo didziausio iki maziausio)
+Ir surasyti i faila d.txt
